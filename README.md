@@ -1,2 +1,2 @@
-BinaryTree
+Random Binary Tree in Javascript
 ==========
