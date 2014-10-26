@@ -3,6 +3,13 @@
 	padding: 0;
 }
 
+h3 {
+	width: 20%;
+	text-align: center;
+	margin: 7px auto;
+	font-family: 'Titillium Web', sans-serif;
+}
+
 canvas {
 	display: block;
 }
