@@ -13,7 +13,8 @@ window.onload = function () {
 
 		length = 100 + Math.round(Math.random() * 50);
 		divergence = 10 + Math.round(Math.random() * 50);
-		reduction = Math.round(50 + Math.random() * 20) / 100;
+		reduction = 0.75;
+		//reduction = Math.round(50 + Math.random() * 20) / 100;
 		line_width = 10;
 
 		var trunk = {x: canvas.width / 2, y: length + 50, angle: 90};
